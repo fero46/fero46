@@ -32,7 +32,6 @@ Let's connect and engage in insightful conversations! You can find me on various
 ## 💡 Fun Facts
 
 - 🎵 I indulge in exploring new programming languages during my free time.
-- 🌍 I'm a fervent traveler, dedicated to unraveling the wonders of different cultures, living a nomadic life outside of Germany.
 - 📚 I'm multilingual, proficient in four languages: English (Fluent), Turkish (Native), German (Native), and French (Basic).
 
 Thanks for dropping by my GitHub profile! Don't hesitate to dive into my projects, and if you have any questions or simply want to have a chat, I'm just a message away.
