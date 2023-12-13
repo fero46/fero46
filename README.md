@@ -28,7 +28,6 @@ Let's connect and engage in insightful conversations! You can find me on various
 - [LinkedIn](https://www.linkedin.com/in/ferhatziba)
 - [Twitter](https://twitter.com/fero46)
 - [Website](https://www.melexsoft.com/)
-- Email: f.ziba@melexsoft.com
 
 ## 💡 Fun Facts
 
