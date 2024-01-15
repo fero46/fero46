@@ -1,7 +1,3 @@
-## 🚀 My Projects
-
-Here are some of the projects I've poured my heart into:
-
 # 💫 About Me:
 I'm a senior software developer. My passion lies in crafting innovative solutions with the power of code. With a rich professional history, I've had the privilege of working with prominent tech giants in Germany, including Xing, as well as contributing to projects for DLR (earth observation), Statistische Bundesamt, VW, Deutsche Telekom, and more.<br><br>🔭 At the moment, I'm immersed in the world of eCommerce, AI and Blockchain, where I'm engaged in some truly exciting work.<br><br>🌱 I'm on an unending journey of learning and constantly honing my skills across a diverse spectrum of technologies, encompassing Ruby on Rails, Rust, JavaScript, React, Next.js, Java, C/C++, PHP, Python, as well as venturing into the realms of Machine Learning and Artificial Intelligence.<br><br>💬 Feel free to pick my brain on any topic related to software development, and I'm committed to offering the best insights and assistance I can provide.
 
