@@ -4,12 +4,13 @@ I'm a senior software developer. My passion lies in crafting innovative solution
 
 ## 🚀 My Projects
 
-1. **Meduse**: A Ruby-based Crypto Currency Exchange.
-2. **Trading Matcher**: A sophisticated OrderBook and Fast Matching Engine with customizable matching strategies, crafted in Rust.
-3. **Melexshop**: An E-commerce Platform, combining Rails, Next.js, and JavaScript to open your own online shop.
-4. **WhaleLink**: Seamlessly purchase NFTs and Cryptocurrencies with Stripe, constructed using Solidity, Ruby on Rails, and Hotwire.
-5. **TheImps**: An enchanting NFT Project featuring playful little Devils. Check it out [here](https://www.the-imps.com/).
-6. **Several Crypto Currency Projects**: Leveraging Solidity, React, and Next.js, I've embarked on multiple exciting ventures in the world of cryptocurrencies.
+1. **QuickCode** A Coding Agent Assistent (alpha)
+2. **Meduse**: A Ruby-based Crypto Currency Exchange.
+3. **Trading Matcher**: A sophisticated OrderBook and Fast Matching Engine with customizable matching strategies, crafted in Rust.
+4. **Melexshop**: An E-commerce Platform, combining Rails, Next.js, and JavaScript to open your own online shop.
+5. **WhaleLink**: Seamlessly purchase NFTs and Cryptocurrencies with Stripe, constructed using Solidity, Ruby on Rails, and Hotwire.
+6. **TheImps**: An enchanting NFT Project featuring playful little Devils. Check it out [here](https://www.the-imps.com/).
+7. **Several Crypto Currency Projects**: Leveraging Solidity, React, and Next.js, I've embarked on multiple exciting ventures in the world of cryptocurrencies.
 
 ## 🌐 Socials:
 
