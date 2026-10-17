@@ -2,6 +2,18 @@
 
 I'm a senior software developer. My passion lies in crafting innovative solutions with the power of code. With a rich professional history, I've had the privilege of working with prominent tech giants in Germany, including Xing, as well as contributing to projects for DLR (earth observation), Statistische Bundesamt, VW, Deutsche Telekom, and more.<br><br>🔭 At the moment, I'm immersed in the world of eCommerce, AI and Blockchain, where I'm engaged in some truly exciting work.<br><br>🌱 I'm on an unending journey of learning and constantly honing my skills across a diverse spectrum of technologies, encompassing Ruby on Rails, Rust, JavaScript, React, Next.js, Java, C/C++, PHP, Python, as well as venturing into the realms of Machine Learning and Artificial Intelligence.<br><br>💬 Feel free to pick my brain on any topic related to software development, and I'm committed to offering the best insights and assistance I can provide.
 
+## 🛠️ Build in Public
+
+Products I'm currently building and growing in public:
+
+1. **Pivix**: Build interactive scorecard [quiz funnels](https://pivix.io) that turn visitors into qualified, sales-ready leads. No code needed.
+2. **Macherportal**: A free directory to [find agencies and freelancers](https://macherportal.de) in Germany, Austria and Switzerland, with no commission fees.
+3. **Gartenbauheld**: Find, compare and contact [landscaping companies](https://gartenbauheld.de) in your region for garden design, maintenance and paving.
+4. **Traumsaal**: Discover and compare [wedding venues](https://traumsaal.de) across the DACH region, from banquet halls to castles and barns.
+5. **Sevendocks**: [Yacht charter](https://sevendocks.com) with crew for your next vacation.
+6. **Melexsoft**: [AI-powered growth systems](https://melexsoft.com) that find what blocks your revenue and build the systems that fix it.
+7. **cli.gs**: An [affiliate network](https://cli.gs) with no cost per click, where merchants only pay for reported sales.
+
 ## 🚀 My Projects
 
 1. **QuickCode** A Coding Agent Assistent (alpha)
